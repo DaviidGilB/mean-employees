@@ -12,3 +12,9 @@
 - npm run dev *para correr server con nodemon tras haber configurado script dev 'nodemon server/index.js'*
 - npm install morgan *para instar dependencia que monstrará por consola las peticiones del usuario*
 - npm install mongoose *para instalar dependencia que gestionará la conexión con MongoDB y que modelará los datos*
+
+### FRONTEND
+
+- npm install -g @angular/cli *para instalar herramienta de angular*
+- ng new frontend *para generar proyecto*
+- ng serve *para correr servidor angular despues de haber entrado en la carpeta*
