@@ -18,3 +18,9 @@
 - npm install -g @angular/cli *para instalar herramienta de angular*
 - ng new frontend *para generar proyecto*
 - ng serve *para correr servidor angular despues de haber entrado en la carpeta*
+- ng g c employees *para generar componente dentro de frontend/src/app/components*
+- ng g class employee *para generar clase dentro de frontend/src/app/models*
+- ng g s employee *para generar servicio dentro de frontend/src/app/services*
+- **https://materializecss.com/**: *framework css*
+- *Añadir CDN de materialize en index.html, iconos y todo lo que necesitemos*
+- import { FormsModule } from '@angular/forms' *para formularios*
