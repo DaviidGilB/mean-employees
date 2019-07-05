@@ -4,8 +4,14 @@
 
 - **index.js**: *archivo principal del servidor*
 - **database.js**: *archivo gestión conexión base de datos*
-- npm init --yes *para inicializar package.json*
-- npm install express *para instalar express dentro del proyecto*
+- npm init --yes, npm init *para inicializar package.json*
+- npm install express, npm install express --save *para instalar express dentro del proyecto*
+- npm i, npm install *para instalar dependencias registradas*
+- **pet store simple** y **mermade** para convertir
+- npm install oas-generator --global
+- oas-generator oas-spec.yaml -n demoserver y cd demoserver
+- npm start
+- heroku login *desde CLI y posteriormente* heroku git:remote -a isadevday19
 - node server/index.js *para ejecutar el servidor directamente*
 - process.env.PORT *para obtener puerto por defecto si existe*
 - npm install nodemon -D *para instalar dependencia de desarrollo que reinicia el servidor tras realizar un cambio*
